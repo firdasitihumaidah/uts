@@ -1,2 +1,2 @@
-# Aplikasi Rental Mobil Sederhana
+# Aplikasi Rental Mobil
 UTS Mobile Programming
